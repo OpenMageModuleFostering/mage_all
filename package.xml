@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Mage_All</name>
+    <version>1.0.18800</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL 3.0)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>All Magento Core Team packages</summary>
+    <description>All Magento Core Team packages</description>
+    <notes>First stable release</notes>
+    <authors><author><name>Moshe</name><user>auto-converted</user><email>moshe@varien.com</email></author></authors>
+    <date>2008-03-31</date>
+    <time>09:28:04</time>
+    <contents><target name="mage"><dir name="pkginfo"><file name="Mage_All.txt" hash="173d5c04dac0f2e2db904180520f01ba"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><package><name>Mage_Pear_Helpers</name><channel>community</channel><min>1.0.18800</min><max></max></package><package><name>Mage_Downloader</name><channel>community</channel><min>1.0.18800</min><max></max></package></required></dependencies>
+</package>
